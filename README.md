@@ -1,5 +1,9 @@
 # Dark Cave Run Game
 
+
+https://github.com/noelmathen/Dark-Cave-Run-Game---Unity---C-Hash/assets/140234564/3bb0fe7c-6bf2-455e-922f-eed9b7acc560
+
+
 Welcome to Dark Cave Run, an exciting and challenging platformer game where you embark on a thrilling adventure through a dark and treacherous cave. Dodge deadly traps, collect diamonds, and race against time to reach the goal. Are you ready to test your agility and wit in this action-packed escapade?
 
 ## Game Features:
@@ -39,3 +43,11 @@ Dark Cave Run offers an addictive gaming experience, making you want to come bac
 Embark on a daring journey through the Dark Cave and test your mettle in this adrenaline-pumping platformer. Are you ready to face the challenges that lie ahead? Download and play Dark Cave Run now!
 
 Note: This game is an exciting project showcasing various techniques and functionalities, including enemy AI, collectibles, animated characters, dynamic level design, and more. The code and assets for this game are available on GitHub, allowing developers to learn and explore the intricacies of game development. Have fun exploring and creating your unique gaming experiences!
+
+## Screenshots:
+
+![Dark Cave Screenshot 2](https://github.com/noelmathen/Dark-Cave-Run-Game---Unity---C-Hash/assets/140234564/818ab3b3-c6c1-4df0-8599-18be36d8c971)
+![Dark Cave Screenshot 1](https://github.com/noelmathen/Dark-Cave-Run-Game---Unity---C-Hash/assets/140234564/0b0df342-30a2-43fe-9356-7d5f5aae0ae8)
+![Dark Cave Screenshot 4](https://github.com/noelmathen/Dark-Cave-Run-Game---Unity---C-Hash/assets/140234564/8838560e-7152-4070-bb7f-35bf8a4e0719)
+
+
